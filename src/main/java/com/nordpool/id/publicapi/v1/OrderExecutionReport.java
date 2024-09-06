@@ -10,7 +10,7 @@ package com.nordpool.id.publicapi.v1;
 import java.time.ZonedDateTime;
 import java.util.List;
 import com.nordpool.id.publicapi.v1.base.BaseRow;
-import com.nordpool.id.publicapi.v2.order.OrderExecutionEntry;
+import com.nordpool.id.publicapi.v1.order.OrderExecutionEntry;
 import com.nordpool.id.publicapi.v1.order.error.Error;
 import com.nordpool.id.publicapi.v1.order.error.ErrorType;
 import org.apache.commons.lang.builder.EqualsBuilder;
